@@ -40,7 +40,7 @@ Demo webpage : https://mqcalc.run.goorm.io/index
 
 
 # GitHub repo
-https://github.com/mutQoin/mutQion
+https://github.com/mutQoin/mutQoin
 
 # Reference 
 [1] [How turnips work in Animal Crossing: New Horizons](https://www.gamesradar.com/animal-crossing-new-horizons-turnips/#:~:text=Turnips%20are%20basically%20the%20Animal,than%20you%20paid%20for%20them.&text=Each%20day%2C%20the%20Nook%20nephews,you%20at%20a%20different%20price.)
