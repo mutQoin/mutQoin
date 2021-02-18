@@ -29,10 +29,6 @@ Using some information from the guide book and some research from communities, w
  - @alchemist3495 - email: `alchemist3495@gmail.com`
  - @rkfqns13 
  - Qiskit Coach: @bluesein @0sophy1 @HuangJunye 
- 
-# To do
- - [ ] what the bayesian network is learning?
- - [ ] 
 
 # Deliverable
 <!-- A paper, a mobile app, a Terra module, etc -->
@@ -53,3 +49,4 @@ https://github.com/mutQoin/mutQoin
 
 [5] [Quantum Machine Learning: Inference on Bayesian Networks](https://medium.com/analytics-vidhya/quantum-machine-learning-inference-on-bayesian-networks-351f242816e8)
 
+[6] [Byskit](https://github.com/mlvqc/Byskit)
