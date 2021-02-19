@@ -10,15 +10,12 @@ mutQoin project team repository
 
 # Abstract
 <!-- Describe your idea in 3 or 4 sentences -->
-Turnips are basically the Animal Crossing: New Horizons version of the stock market - adorably known as the stalk market. 
-You buy turnips for one price, hold onto them, and then sell them for, hopefully, more than you paid for them.
-So forecasting Turnip Prices with the Bayesian network using quantum circuit will be a simple but interesting project.
+To get a lot of game money Bell in the popular game Animal Crossing worldwide, reselling turnips called Mutcoin or Mutstock is the most popular means. Dramatically successful Mutcoin transactions require analysis and prediction of the available time and price for sale. For this, many gamers are trying variously, such as a turnip value calculator, to predict the turnip value more accurately. However, the methods presented to date are not as diverse or accurate as a general financial transaction and prediction models because there is very little collectible turnip price data for more accurate prediction of turnip price. Even for a small amount of data, designing a model that can predict an effective and accurate turnip value is necessary. 
 
+In this project, we propose a Bayesian theory-based quantum turnip prediction model using Qiskit and the small turnip data, called mutQoin. The proposed model utilizes the turnip value data to a Bayesian model consisting of a parent node for the morning and afternoon value of the previous day and a child node for a predicted turnip value. This training result was transformed into a histogram of the probability of the turnip values' appearance for each section. This histogram was used as a reference pattern for predicting turnip prices. The mutQoin's implementation used Byskit, a quantum Bayesian model based on Qiskit, and IBM Q quantum processors, a real backend. Unlike the existing Bayesian theory-based turnip value prediction model, the mutQoin outputs the turnip value well even though it has two input data, thus showing high computational efficiency. Also, since we are experimenting with the proposed model by gradually increasing the number of qubits for expressing the turnip value, the scalability of the proposed model for IBM Q quantum processors is shown.
 
-# Description 
-
-According to the official Animal Crossing guide book, the fluctuations in turnips prices each week follows one of four patterns: Normal, Sudden Spike, Gradual Decline, and Gentle Spike.
-Using some information from the guide book and some research from communities, we will design the bayesian network with quantum circuit.
+# Description
+Turnips are basically the Animal Crossing: New Horizons version of the stock market - adorably known as the stalk market. You buy turnips for one price, hold onto them, and then sell them for, hopefully, more than you paid for them. According to the official Animal Crossing guide book, the fluctuations in turnips prices each week follows one of four patterns: Up-down-up-down(Normal), Big spike(Sudden Spike), Decreasing(Gradual Decline), and Small spike(Gentle Spike). Using some information from the guide book and some research from communities, we will forecast Turnip Prices with the Bayesian network using quantum circuit. It is a simple but interesting project.
 
 
 # Members
