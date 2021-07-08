@@ -24,7 +24,7 @@ Turnips are basically the Animal Crossing: New Horizons version of the stock mar
  - @curieuxjy - Slack: `@Jungyeon Lee` email: `curieuxjy@gmail.com`
  - @jojoon99 - Slack: `@조준구` email: `jojoon9@naver.com`
  - @alchemist3495 - email: `alchemist3495@gmail.com`
- - @rkfqns13 
+ - @rkfqns13 - Slack: `@Juon Kim` email: `kimjuon77@naver.com`
  - Qiskit Coach: @bluesein @0sophy1 @HuangJunye 
 
 # Deliverable
